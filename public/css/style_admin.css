@@ -1,0 +1,31 @@
+.navbar-brand {
+	font-weight: bold;
+	font-size: 30px;
+	font-style: oblique;
+	font-family: "Monotype.com", monospace;
+	font-color: white;
+	padding-left: 20px;
+}
+.nav-link:hover {
+	background-color: grey;
+}
+.display-4 {
+	font-weight: bold;
+}
+.card-body-icon {
+	position: absolute;
+	z-index: 0;
+	top: 25px;
+	right: 12px;
+	opacity: 0.4;
+	font-size: 90px;
+}
+.fa-envelope {
+	color: white;
+}
+.fa-bell {
+	color: white;
+}
+.fa-sign-out-alt {
+	color: white;
+}

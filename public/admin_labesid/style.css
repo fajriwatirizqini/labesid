@@ -1,0 +1,127 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background-color: #303848;
+}
+
+.tentang {
+	position: relative;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+	flex-direction: row;
+	width: 100%;
+	height: 200px;
+}
+
+.lokasi {
+	position: relative;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+	flex-direction: row;
+	width: 100%;
+	height: 200px;
+}
+
+.kontak {
+	position: relative;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+	flex-direction: row;
+	width: 100%;
+	height: 200px;
+}
+
+.navbar {
+	background-image: linear-gradient(-200deg, yellow -20.5%, #E5C4AB 95%, #F4D3E7 100%);
+}
+
+.jumbotron {
+	background-image: url('img/Desain.png');
+	background-size: cover;
+	height: 700px;
+}
+
+.jumbotron .display-4 {
+	margin-top: 200px;
+	margin-left: 150px;
+	color: white;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.jumbotron .lead {
+	margin-right: 350px;
+	margin-left: 40px;
+	color: white;
+}
+
+.jumbotron hr {
+	margin-right: 520px;
+	width: 600px;
+}
+
+.jumbotron .btn {
+	margin-left: 320px;
+}
+
+.card {
+	height: 250px;
+	width: 20rem;
+	margin-top: -150px;
+	margin-left: 50px;
+}
+
+.site-section {
+	margin-top: -70px;
+	padding: 2.5em 0;
+	background-color: #303848;
+}
+
+@media (min-width: 750px) {
+    .site-section {
+      padding: 5em 0;
+    }
+}
+
+.site-section.site-section-sm {
+    padding: 4em 0;
+}
+
+.site-section-heading {
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+  position: absolute;
+  font-size: 2.5rem;
+}
+
+.site-section .service-1 {
+	margin-left: 85px;
+}
+
+@media (min-width: 750px) {
+    .site-section-heading {
+      font-size: 3rem;
+    }
+}
+
+hr {
+	width: 100px;
+	border-top: 3px solid #EAEAEA;
+	margin-top: -50px;
+}
+
+.col-md-3 img {
+	margin-top: 20px;
+}
+
+hr {
+	color: yellow;
+}

@@ -1,0 +1,71 @@
+.navbar-brand {
+	font-weight: bold;
+	font-size: 30px;
+	font-style: oblique;
+	font-family: "Monotype.com", monospace;
+	font-color: white;
+	padding-left: 20px;
+}
+.nav-link:hover {
+	background-color: #65799B;
+}
+.admin{
+	margin-left: 10px;
+	font-weight: bold;
+	font-size: 30px;
+}
+.display-4 {
+	font-weight: bold;
+}
+.card-body-icon {
+	position: absolute;
+	z-index: 0;
+	top: 25px;
+	right: 12px;
+	opacity: 0.4;
+	font-size: 90px;
+}
+.fa-envelope {
+	color: white;
+	cursor: pointer
+}
+.fa-bell {
+	color: white;
+	cursor: pointer
+}
+.fa-sign-out-alt {
+	color: white;
+	cursor: pointer
+}
+.progress {
+	height: 25px;
+}
+.progress-bar {
+	font-size: 15px;
+	font-style: italic;
+}
+.img-top{
+	margin-left: 400px;
+	width: 178px;
+    height: 200px;
+}
+.col-form-label{
+	font-weight: bold;
+}
+input{
+	width: 50rem;
+}
+.fa-edit{
+	color: black;
+	cursor: pointer
+}
+.card-img-top1{
+	width: 80px;
+    height: 60px;
+}
+.perusahaan {
+	width: 70px;
+}
+.bg-color{
+	background-color: #10316B;
+}
